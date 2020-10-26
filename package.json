@@ -1,0 +1,10 @@
+{
+  "name": "fb-swiper",
+  "version": "1.0.0",
+  "description": "Clone of the fb and yt swiper",
+  "main": "src/app.js",
+  "license": "MIT",
+  "dependencies": {
+    "swiper": "^6.3.4"
+  }
+}
